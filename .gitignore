@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# Notebooks con soluciones (no se publican)
+*_complete.ipynb
+2. One Hidden Unit/One Hidden Unit
